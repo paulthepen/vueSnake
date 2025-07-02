@@ -1,4 +1,6 @@
-# snake_game
+A simple "snake game" written in Vue as showcase/learning exercise. It's a nice piece of nostalgia, too, if you're yearning for your indestructible Nokia phone or TI-83 calculator...
+
+# Snake Game
 
 ## Project setup
 ```
