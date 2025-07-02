@@ -1,5 +1,7 @@
 A simple "snake game" written in Vue as showcase/learning exercise. It's a nice piece of nostalgia, too, if you're yearning for your indestructible Nokia phone or TI-83 calculator...
 
+Play it [here](https://paulthepen.github.io/vueSnake/)
+
 # Snake Game
 
 ## Project setup
